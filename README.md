@@ -4,7 +4,7 @@ public facing subnetwork for (semi-centeralised) private services.
 # Transfem Network (transfem.net)
   - built on Tailscale currently but hoping to host general Wireguard tunnel for more user capability.
   - i2p relay available with Tor and Yggdrasil outproxy
-  - Test subnet connection with http://vps.rya-forel.ts.net / http://nyako.transfem.net / 100.102.121.9
+  - Test subnet connection with http://nyako.transfem.net
   
  ## Connecting:
  ### Connecting to the subnet is relatively easy, first you have to install the Tailscale service.
