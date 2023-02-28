@@ -7,7 +7,7 @@ public facing subnetwork for (semi-centeralised) private services.
   - Test subnet connection with http://nyako.transfem.net/webui/preview
   - add issue request or message on matrix at @xoxyla:matrix.org for `*.transfem.net` domain. 
     - need requested domain name, and hostname/ipv4/ipv6
-    - clearnet option available as well but privacy is iffy as it is provided via http://000webhost.com
+    - ~~clearnet option available as well but privacy is iffy as it is provided via http://000webhost.com~~
   - supports internal ipv6 usage as well.
  ## Connecting:
  ### Connecting to the subnet is relatively easy, first you have to install the Tailscale service.
